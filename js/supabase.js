@@ -4,8 +4,8 @@
 //  Supabase Dashboard → Project Settings → API
 // ============================================================
 
-const SUPABASE_URL  = 'https://YOUR_PROJECT_ID.supabase.co';
-const SUPABASE_ANON = 'YOUR_ANON_KEY_HERE';
+const SUPABASE_URL  = 'https://djrjklrkzcfmdvnvgbur.supabase.co';
+const SUPABASE_ANON = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRqcmprbHJremNmbWR2bnZnYnVyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzk2NDY3MjMsImV4cCI6MjA5NTIyMjcyM30.MrOS5czxMPP5AoWR5Gu640TjONkakPflTM8R4oMhVzw';
 
 // Resolve paths relative to wherever the app is hosted (works on GitHub Pages subpaths)
 const BASE = (() => {
